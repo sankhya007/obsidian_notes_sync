@@ -1,42 +1,24 @@
 {
   "main": {
-    "id": "3a8225af8cb36596",
+    "id": "097ff84c5eca56f1",
     "type": "split",
     "children": [
       {
-        "id": "ef48265ff9225e9e",
+        "id": "ec3134f33be28f5c",
         "type": "tabs",
-        "dimension": 60.40609137055838,
         "children": [
           {
-            "id": "e8c41af588cddba6",
+            "id": "d1c2032655cf597d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrency_basics.md",
+                "file": "sankhya-laptop/TCP_socktets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "concurrency_basics"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1efb84b191908a4e",
-        "type": "tabs",
-        "dimension": 39.59390862944163,
-        "children": [
-          {
-            "id": "73d63c983063af28",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "TCP_socktets"
             }
           }
         ]
@@ -45,21 +27,21 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "277e30e0f3233564",
+    "id": "0832aa4cec971f58",
     "type": "split",
     "children": [
       {
-        "id": "6e1edae9e6314df4",
+        "id": "065a9b082294f347",
         "type": "tabs",
         "children": [
           {
-            "id": "143be8e206200510",
+            "id": "eb9af615836b1c2c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -68,7 +50,7 @@
             }
           },
           {
-            "id": "213501eec17a3239",
+            "id": "3827e69015369013",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +67,7 @@
             }
           },
           {
-            "id": "ee4267810a8a1c37",
+            "id": "f30fad914042b0fb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "27ce883b846a94f7",
+    "id": "896db9f050149c56",
     "type": "split",
     "children": [
       {
-        "id": "adff7396f545d365",
+        "id": "b41d67567c497818",
         "type": "tabs",
         "children": [
           {
-            "id": "f689f05759d69745",
+            "id": "fa2628ea8fe60b6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "sankhya-laptop/3_way_handshake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,12 +113,12 @@
             }
           },
           {
-            "id": "be57a6c68409908f",
+            "id": "2331ba6cfe0ffbf0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "sankhya-laptop/3_way_handshake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -145,7 +127,7 @@
             }
           },
           {
-            "id": "657b2f138fc1117a",
+            "id": "96beb5c8926f0436",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,7 +142,7 @@
             }
           },
           {
-            "id": "1a956ea400b7a13b",
+            "id": "7b383039f53c5558",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -174,12 +156,12 @@
             }
           },
           {
-            "id": "87722fdba89386ad",
+            "id": "5e48959f4b19130b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "sankhya-laptop/3_way_handshake.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +179,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -206,18 +188,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "73d63c983063af28",
+  "active": "d1c2032655cf597d",
   "lastOpenFiles": [
-    "concurrency_basics.md",
-    "prerequisits.md",
-    "torrent_client.md",
-    "the_.torrent_file.md",
-    "TCP, UDP all info.md",
-    "TCP_socktets.md",
-    "3_way_handshake.md",
-    "basic understanding.md",
-    "piece_management.md",
-    "peer_wire_protocol.md",
-    "tracker_comunication.md"
+    "sankhya-laptop/piece_management.md",
+    "sankhya-laptop/basic understanding.md",
+    "sankhya-laptop/3_way_handshake.md"
   ]
 }
