@@ -1,4 +1,4 @@
-when downloading a torrent file the client connects to a lot of peers simultaniously to request and send file pieces, if the client proceeds these connections one by one synchroniously a slow peer would freeze the entire download. 
+ when downloading a torrent file the client connects to a lot of peers simultaniously to request and send file pieces, if the client proceeds these connections one by one synchroniously a slow peer would freeze the entire download. 
 
 to keep everything mmoving at once we need need concurrency, and there are two methods to that concurrency 
 

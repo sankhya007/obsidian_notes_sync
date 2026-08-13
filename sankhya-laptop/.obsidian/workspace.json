@@ -6,7 +6,6 @@
       {
         "id": "ef48265ff9225e9e",
         "type": "tabs",
-        "dimension": 60.40609137055838,
         "children": [
           {
             "id": "e8c41af588cddba6",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrency_basics.md",
+                "file": "3. integres in memory - big endian vs little endian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "concurrency_basics"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1efb84b191908a4e",
-        "type": "tabs",
-        "dimension": 39.59390862944163,
-        "children": [
-          {
-            "id": "73d63c983063af28",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "3. integres in memory - big endian vs little endian"
             }
           }
         ]
@@ -101,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.30859375
   },
   "right": {
     "id": "27ce883b846a94f7",
@@ -206,10 +188,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "73d63c983063af28",
+  "active": "e8c41af588cddba6",
   "lastOpenFiles": [
-    "concurrency_basics.md",
+    "binary_data.md",
+    "3. integres in memory - big endian vs little endian.md",
+    "2. what a byte actually is.md",
+    "1. number system.md",
+    "Pasted image 20260813195207.png",
+    "Pasted image 20260813194918.png",
+    "Pasted image 20260813194732.png",
+    "Pasted image 20260813194652.png",
+    "Pasted image 20260813194602.png",
+    "Pasted image 20260813194528.png",
+    "Pasted image 20260813194413.png",
+    "Pasted image 20260813194351.png",
+    "Pasted image 20260813194311.png",
+    "Pasted image 20260813194159.png",
     "prerequisits.md",
+    "concurrency_basics.md",
     "torrent_client.md",
     "the_.torrent_file.md",
     "TCP, UDP all info.md",
